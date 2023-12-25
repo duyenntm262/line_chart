@@ -103,7 +103,7 @@ class LineChartWithAxes extends StatelessWidget {
                 getTitles: (value) {
                   switch (value.toInt()) {
                     case 1:
-                      return '咬合圧'; // Replace with your desired text
+                      return '0:00';
                     case 4:
                       return '3:00';
                     case 7:
